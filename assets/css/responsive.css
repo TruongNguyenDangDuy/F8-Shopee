@@ -133,6 +133,9 @@
     .mobile-margin {
         margin-left: 40px;
     }
+    .header__cart-icon {
+        -webkit-tap-highlight-color: transparent;
+    }
   
    
 }   
